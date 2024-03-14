@@ -1,0 +1,12 @@
+
+[Test_UnifiedResponse/with_status_200 - 1]
+map[string]interface {}{
+    "message": "OK",
+}
+---
+
+[Test_UnifiedResponse/with_status_404 - 1]
+map[string]interface {}{
+    "message": "Not Found",
+}
+---

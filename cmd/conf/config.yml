@@ -1,0 +1,4 @@
+# config.yaml
+app:
+  addr: "localhost"
+  port: 8081
